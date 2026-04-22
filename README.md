@@ -8,7 +8,7 @@ This repository contains the implementation of haze removal and visibility enhan
 
 The dataset is publicly available on Zenodo:
 
-🔗 [Download Dataset from Zenodo]((https://doi.org/10.5281/zenodo.19678785))
+🔗 [Download Dataset from Zenodo][https://doi.org/10.5281/zenodo.19678785]
 
 ### Dataset Structure
 The dataset is organized into three main folders:

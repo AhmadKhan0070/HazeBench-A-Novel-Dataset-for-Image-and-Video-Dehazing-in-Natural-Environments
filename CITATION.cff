@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it using the metadata below."
+title: "HazeBench: A Novel Dataset for Image and Video Dehazing in Natural Environments"
+authors:
+  - family-names: Khan
+    given-names: Ahmad
+repository-code: "https://github.com/AhmadKhan0070/HazeBench-A-Novel-Dataset-for-Image-and-Video-Dehazing-in-Natural-Environments"
+url: "https://github.com/AhmadKhan0070/HazeBench-A-Novel-Dataset-for-Image-and-Video-Dehazing-in-Natural-Environments"
+abstract: "HazeBench is a novel dataset designed for benchmarking image and video dehazing algorithms in real-world natural environments. It includes diverse atmospheric conditions and supports evaluation of both traditional and deep learning-based dehazing methods."
+keywords:
+  - Image Dehazing
+  - Video Dehazing
+  - Computer Vision
+  - Dataset
+  - Benchmark
+license: "MIT"
+version: "1.0.0"
+date-released: 2026-04-24
+doi: "10.5281/zenodo.19678785"

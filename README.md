@@ -52,5 +52,8 @@ The results demonstrate improved visibility and clarity across different haze co
 - Traffic monitoring
 - Environmental analysis
 
----
+If you use this dataset or code, please cite:
+
+> HazeBench: A Novel Dataset for Image and Video Dehazing in Natural Environments  
+> Manuscript submitted to *The Visual Computer*, Springer Nature.
 

@@ -1,4 +1,4 @@
-# 🌫️ HazeBench: Haze Removal and Visibility Enhancement
+# 🌫️ HazeBench: A Novel Dataset for Image and Video Dehazing in Natural Environments
 
 This repository contains the implementation of haze removal and visibility enhancement techniques applied to a diverse real-world dataset. The dataset is designed to evaluate performance under varying haze conditions across multiple environments.
 

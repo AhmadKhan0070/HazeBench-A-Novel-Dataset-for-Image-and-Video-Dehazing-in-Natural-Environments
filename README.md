@@ -46,6 +46,11 @@ This repository includes three main components:
 - **Proposed Method (Final Output)**: Improved haze removal approach for enhanced visibility.
 - **Fusion Model**: Combines outputs of both models to improve visual quality and robustness.
 
+The implementations of the following existing dehazing models used in our experiments are included in this repository:
+- **Scene Specific Dark Channel Prior (DCP):**: Baseline haze removal method used for comparison.
+- **Rank One Plus:**: A low-rank image restoration approach for haze removal and detail preservation.
+- **MSRN (Multi-Scale Retinex Network):** A Retinex-based method that enhances image visibility through multi-scale illumination correction.
+
 ---
 
 ## 📊 Results
